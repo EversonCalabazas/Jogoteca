@@ -1,2 +1,5 @@
 # Jogoteca
-Projeto em Flask listando jogos 
+
+Projeto utilizando o framework Flask para listar jogos numa página web
+
+
